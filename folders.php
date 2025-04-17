@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: http://54.225.44.114");
+header("Access-Control-Allow-Origin: http://54.227.103.48");
 header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
 header("Content-Type: application/json");

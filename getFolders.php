@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: application/json");
 
-header("Access-Control-Allow-Origin: http://34.203.214.162");
+header("Access-Control-Allow-Origin: http://http://54.227.103.48");
 header("Access-Control-Allow-Methods: GET, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
 header("Content-Type: application/json");
