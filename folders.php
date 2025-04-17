@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: http://34.203.214.162");
+header("Access-Control-Allow-Origin: http://54.225.44.114");
 header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
 header("Content-Type: application/json");
@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit(0);
 }
 
-$db_host = "34.238.176.97"; // Replace with actual private IP
+$db_host = "54.84.201.94"; // Replace with actual private IP
 $db_user = "api_user";
 $db_pass = "api_password";
 $db_name = "spotify_folders";

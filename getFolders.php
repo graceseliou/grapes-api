@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 }
 
 
-$db_host = "34.238.176.97"; // Replace with your database server's private IP
+$db_host = "54.84.201.94"; // Replace with your database server's private IP
 $db_user = "api_user";
 $db_pass = "api_password";
 $db_name = "spotify_folders";
